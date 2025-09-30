@@ -16,11 +16,11 @@
 ---
 
 ## 🚀 Featured Projects
-[![PromptPal](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=Promptpal&theme=tokyonight)](https://github.com/SUDHANSHUKADAM/Promptpal)
-[![TradeWise](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=TradeWise-AI-Powered-Portfolio-Optimization&theme=tokyonight)](https://github.com/SUDHANSHUKADAM/TradeWise-AI-Powered-Portfolio-Optimization)
+[![PromptPal](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=Promptpal&theme=dark&show_owner=false)](https://github.com/SUDHANSHUKADAM/Promptpal)
+[![TradeWise](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=TradeWise-AI-Powered-Portfolio-Optimization&theme=dark&show_owner=false)](https://github.com/SUDHANSHUKADAM/TradeWise-AI-Powered-Portfolio-Optimization)
 
-[![Medical Diagnosis System](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=Medical-Diagnosis-System&theme=tokyonight)](https://github.com/SUDHANSHUKADAM/Medical-Diagnosis-System)
-[![DDPM](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=Generating-Realistic-Images-using-DDPM&theme=tokyonight)](https://github.com/SUDHANSHUKADAM/Generating-Realistic-Images-using-DDPM)
+[![Medical Diagnosis System](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=Medical-Diagnosis-System&theme=dark&show_owner=false)](https://github.com/SUDHANSHUKADAM/Medical-Diagnosis-System)
+[![DDPM](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=Generating-Realistic-Images-using-DDPM&theme=dark&show_owner=false)](https://github.com/SUDHANSHUKADAM/Generating-Realistic-Images-using-DDPM)
 
 ---
 
