@@ -125,5 +125,5 @@
 - [Email](mailto:skadam18@asu.edu)  
 
 ---
-✨ *Exploring AI, Big Data, and Cloud to bridge the gap between Data and Decisions!*
+✨ *Solving real-world problems with intelligent, end-to-end data solutions.*
 
