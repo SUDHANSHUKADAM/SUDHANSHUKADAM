@@ -78,7 +78,6 @@
 
 ## 🏆 Certifications & Trainings
 
-## 🏆 Certifications & Trainings
 
 ### Google
 <p>
