@@ -76,27 +76,48 @@
 
 ---
 
-## 🏆 Certifications  
+## 🏆 Certifications & Trainings  
 
 <p align="center">
-  <a href="https://www.credly.com/go/EUZho2d0"><img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Semester%201-orange?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-  <a href="https://www.credly.com/go/4CxRY8n3"><img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Semester%202-orange?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-  <a href="https://www.credly.com/go/w39FULC9"><img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Security%20Foundations-blue?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-  <br/>
+  <!-- AWS -->
+  <a href="https://www.credly.com/go/EUZho2d0" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/0f947012-5c53-4e3c-9e3d-16c3bb6ff91f/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge2020.png" alt="AWS Cloud Sem 1" />
+  </a>
+  <a href="https://www.credly.com/go/4CxRY8n3" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/59802c8a-c30c-4adc-8bc4-46aa82af4e4f/AWS_Academy_Graduate___AWS_Academy_Cloud_Architecting_Badge2020.png" alt="AWS Cloud Sem 2" />
+  </a>
+  <a href="https://www.credly.com/go/w39FULC9" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/3f5fb7f7-4a68-43d9-b84d-74d51d67a4a7/AWS_Academy_Graduate___AWS_Academy_Cloud_Security_Foundations_Badge2020.png" alt="AWS Cloud Security Foundations" />
+  </a>
 
-  <a href="https://learn.nvidia.com/certificates?id=mF4_Z6C2Qia_m1uAnP91hw"><img src="https://img.shields.io/badge/NVIDIA-AI%20on%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></a>
-  <a href="https://learn.nvidia.com/certificates?id=tHJ8pel3Rtqec2tyOBP0vg"><img src="https://img.shields.io/badge/NVIDIA-Deep%20Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></a>
-  <br/>
+  <!-- NVIDIA -->
+  <a href="https://learn.nvidia.com/certificates?id=mF4_Z6C2Qia_m1uAnP91hw" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/8b7c2a2a-b51a-45a3-bd92-3f0af99327b7/image.png" alt="NVIDIA AI on Jetson" />
+  </a>
+  <a href="https://learn.nvidia.com/certificates?id=tHJ8pel3Rtqec2tyOBP0vg" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/2f3af2e3-b5a7-4666-b0a7-c1f15888f6f0/image.png" alt="NVIDIA Deep Learning" />
+  </a>
 
-  <a href="https://coursera.org/verify/professional-cert/5SHTHUEZKSNB"><img src="https://img.shields.io/badge/Google-Data%20Analytics-34A853?style=for-the-badge&logo=google&logoColor=white" /></a>
-  <a href="https://coursera.org/verify/professional-cert/5SY5ASN6HW13"><img src="https://img.shields.io/badge/IBM-Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
-  <a href="https://coursera.org/verify/3ALHBNX4J2NL"><img src="https://img.shields.io/badge/JHU-HTML%20CSS%20JS-0069D9?style=for-the-badge&logo=javascript&logoColor=white" /></a>
-  <a href="https://coursera.org/verify/MJAVJ6BKLPQG"><img src="https://img.shields.io/badge/U.Mich-Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <!-- Google -->
+  <a href="https://coursera.org/verify/professional-cert/5SHTHUEZKSNB" target="_blank">
+    <img src="https://img.icons8.com/color/96/google-logo.png" width="110" alt="Google Data Analytics" />
+  </a>
+
+  <!-- IBM -->
+  <a href="https://coursera.org/verify/professional-cert/5SY5ASN6HW13" target="_blank">
+    <img src="https://img.icons8.com/color/96/ibm.png" width="110" alt="IBM Data Science" />
+  </a>
+
+  <!-- Johns Hopkins -->
+  <a href="https://coursera.org/verify/3ALHBNX4J2NL" target="_blank">
+    <img src="https://img.icons8.com/color/96/javascript.png" width="110" alt="JHU HTML CSS JS" />
+  </a>
+
+  <!-- Univ. of Michigan -->
+  <a href="https://coursera.org/verify/MJAVJ6BKLPQG" target="_blank">
+    <img src="https://img.icons8.com/color/96/python.png" width="110" alt="UoM Python Programming" />
+  </a>
 </p>
-
-
-
-
 
 ---
 
