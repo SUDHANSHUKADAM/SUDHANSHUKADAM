@@ -7,24 +7,49 @@
 ## 👨‍🎓 Education
 - 🎓 **Master’s in Data Science, Analytics & Engineering (Computational & Decision Analytics)**  
   *Arizona State University, Tempe (2024–2026)* — GPA: **3.89/4.00**  
-  Coursework: Data Mining, Data Processing at Scale, Statistical ML, Statistics for Data Analysts, GenAI, Analyzing Big Data, Knowledge Representation,Information Assurance and Security, Data- Dricen Optimization  
+  Coursework: Data Mining, Data Processing at Scale, Statistical ML, Statistics for Data Analysts, GenAI, Analyzing Big Data, Knowledge Representation, Information Assurance & Security, **Data-Driven Optimization**
 
 - 🎓 **Bachelor’s in Computer Engineering with Minor in Data Science**  
   *SIES Graduate School of Technology, University of Mumbai (2020–2024)* — CGPA: **9.12/10.00**  
-  Coursework: Data Science in Healthcare, Database Management System, Machine Learning, Probabilistic Graphical Modelling, Quantitative Analysis, Big Data Analytics, Information Retrieval, Artificial Intelligence, Natural Language Processing & Data Warehousing and Mining.   
+  Coursework: Data Science in Healthcare, DBMS, Machine Learning, Probabilistic Graphical Modelling, Quantitative Analysis, Big Data Analytics, Information Retrieval, AI, NLP, Data Warehousing & Mining.
 
 ---
 
 ## 🚀 Featured Projects
 [![PromptPal](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=Promptpal&theme=dark&show_owner=false)](https://github.com/SUDHANSHUKADAM/Promptpal)
 [![TradeWise](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=TradeWise-AI-Powered-Portfolio-Optimization&theme=dark&show_owner=false)](https://github.com/SUDHANSHUKADAM/TradeWise-AI-Powered-Portfolio-Optimization)
-
 [![Medical Diagnosis System](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=Medical-Diagnosis-System&theme=dark&show_owner=false)](https://github.com/SUDHANSHUKADAM/Medical-Diagnosis-System)
 [![DDPM](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=Generating-Realistic-Images-using-DDPM&theme=dark&show_owner=false)](https://github.com/SUDHANSHUKADAM/Generating-Realistic-Images-using-DDPM)
 
 ---
 
 ## 💻 Tech Stack
+
+<!-- Quick-scan icons (Pinned Skills) -->
+<div align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" title="Java"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" title="C++"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="36" title="R"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="36" title="Scala"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>&nbsp;
+  <!-- ML/DL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" title="PyTorch"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" title="TensorFlow"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" title="NumPy"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" title="Pandas"/>&nbsp;
+  <!-- Big Data / Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="36" title="Apache Spark"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="36" title="Databricks"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36" title="AWS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" title="GCP"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" title="Azure"/>&nbsp;
+  <!-- DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" title="Kubernetes"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
+</div>
 
 ### IDE & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -76,54 +101,51 @@
 
 ---
 
-## 🏆 Certifications & Trainings
-
-
-### Google
-<p>
-  <a href="#"><img src="assets/certs/ab_side_by_side_gcp_datanalyticsspecialization_badge.png" width="96" alt="Google Cloud – Data Analytics Specialization"></a>
-</p>
-
-### Amazon Web Services (AWS)
-<p>
-  <a href="https://www.credly.com/go/EUZho2d0"><img src="assets/certs/aws-academy-graduate-aws-academy-introduction-to-cloud-semester-1.png" width="96" alt="AWS Academy – Cloud Semester 1"></a>
-  <a href="https://www.credly.com/go/4CxRY8n3"><img src="assets/certs/aws-academy-graduate-aws-academy-introduction-to-cloud-semester-2.png" width="96" alt="AWS Academy – Cloud Semester 2"></a>
-  <a href="https://www.credly.com/go/w39FULC9"><img src="assets/certs/aws-academy-graduate-aws-academy-cloud-security-foundations.png" width="96" alt="AWS Academy – Cloud Security Foundations"></a>
-</p>
-
-### NVIDIA
-<p>
-  <a href="https://learn.nvidia.com/certificates?id=mF4_Z6C2Qia_m1uAnP91hw"><img src="assets/certs/aijetson.png" width="96" alt="NVIDIA – Getting Started with AI on Jetson Nano"></a>
-  <a href="https://learn.nvidia.com/certificates?id=tHJ8pel3Rtqec2tyOBP0vg"><img src="assets/certs/deeplearning.png" width="96" alt="NVIDIA – Getting Started with Deep Learning"></a>
-</p>
-
-### IBM
-<p>
-  <a href="https://coursera.org/verify/professional-cert/5SY5ASN6HW13"><img src="assets/certs/ibm data science.png" width="96" alt="IBM – Data Science Professional Certificate"></a>
-</p>
-
-### Others
-<p>
-  <a href="https://coursera.org/verify/3ALHBNX4J2NL"><img src="assets/certs/html javascript css.png" width="96" alt="Johns Hopkins – HTML, CSS, and Javascript for Web Developers"></a>
-  <a href="https://coursera.org/verify/MJAVJ6BKLPQG"><img src="assets/certs/python.jpeg" width="96" alt="University of Michigan – Python for Everybody Specialization"></a>
-  <a href="#"><img src="assets/certs/data science ecommerce.png" width="96" alt="upGrad – Data Science in E-Commerce"></a>
-</p>
-
-
+## 🏆 Certifications & Trainings (Compact)
+<!-- one tight wall, minimal vertical space -->
+<div align="center">
+  <!-- Google -->
+  <a href="#"><img src="assets/certs/ab_side_by_side_gcp_datanalyticsspecialization_badge.png" width="90" alt="Google Cloud – Data Analytics Specialization"></a>
+  <!-- AWS -->
+  <a href="https://www.credly.com/go/EUZho2d0"><img src="assets/certs/aws-academy-graduate-aws-academy-introduction-to-cloud-semester-1.png" width="90" alt="AWS Academy – Cloud Semester 1"></a>
+  <a href="https://www.credly.com/go/4CxRY8n3"><img src="assets/certs/aws-academy-graduate-aws-academy-introduction-to-cloud-semester-2.png" width="90" alt="AWS Academy – Cloud Semester 2"></a>
+  <a href="https://www.credly.com/go/w39FULC9"><img src="assets/certs/aws-academy-graduate-aws-academy-cloud-security-foundations.png" width="90" alt="AWS Academy – Cloud Security Foundations"></a>
+  <!-- NVIDIA -->
+  <a href="https://learn.nvidia.com/certificates?id=mF4_Z6C2Qia_m1uAnP91hw"><img src="assets/certs/aijetson.png" width="90" alt="NVIDIA – Getting Started with AI on Jetson Nano"></a>
+  <a href="https://learn.nvidia.com/certificates?id=tHJ8pel3Rtqec2tyOBP0vg"><img src="assets/certs/deeplearning.png" width="90" alt="NVIDIA – Getting Started with Deep Learning"></a>
+  <!-- IBM -->
+  <a href="https://coursera.org/verify/professional-cert/5SY5ASN6HW13"><img src="assets/certs/ibm data science.png" width="90" alt="IBM – Data Science Professional Certificate"></a>
+  <!-- Others -->
+  <a href="https://coursera.org/verify/3ALHBNX4J2NL"><img src="assets/certs/html javascript css.png" width="90" alt="HTML, CSS & JS for Web Developers"></a>
+  <a href="https://coursera.org/verify/MJAVJ6BKLPQG"><img src="assets/certs/python.jpeg" width="90" alt="Python for Everybody Specialization"></a>
+  <a href="#"><img src="assets/certs/data science ecommerce.png" width="90" alt="upGrad – Data Science in E-Commerce"></a>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-![Sudhanshu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SUDHANSHUKADAM&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDHANSHUKADAM&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SUDHANSHUKADAM&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com?user=SUDHANSHUKADAM&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUDHANSHUKADAM&layout=compact&theme=tokyonight" height="150" />
+</div>
 
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sudhanshu-kadam/)  
-- [Portfolio Website](https://skadam.framer.website/)  
-- [Email](mailto:skadam18@asu.edu)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sudhanshu-kadam/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:skadam18@asu.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://skadam.framer.website/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 ✨ *Solving real-world problems with intelligent, end-to-end data solutions.*
+
 
