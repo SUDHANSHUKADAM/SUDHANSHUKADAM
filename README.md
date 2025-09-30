@@ -78,33 +78,68 @@
 
 ##🏆 Certifications & Trainings
 
-<p align="center">
-<!-- AWS -->
-<a href="https://www.credly.com/go/EUZho2d0"><img src="assets/certs/aws-academy-graduate-aws-academy-introduction-to-cloud-semester-1.png" width="96" alt="AWS Academy – Cloud Semester 1"></a>
-<a href="https://www.credly.com/go/4CxRY8n3"><img src="assets/certs/aws-academy-graduate-aws-academy-introduction-to-cloud-semester-2.png" width="96" alt="AWS Academy – Cloud Semester 2"></a>
-<a href="https://www.credly.com/go/w39FULC9"><img src="assets/certs/aws-academy-graduate-aws-academy-cloud-security-foundations.png" width="96" alt="AWS Academy – Cloud Security Foundations"></a>
-</p>
-
-<p align="center">
-<!-- NVIDIA -->
-<a href="https://learn.nvidia.com/certificates?id=mF4_Z6C2Qia_m1uAnP91hw"><img src="assets/certs/aijetson.png" width="96" alt="NVIDIA – Getting Started with AI on Jetson Nano"></a>
-<a href="https://learn.nvidia.com/certificates?id=tHJ8pel3Rtqec2tyOBP0vg"><img src="assets/certs/deeplearning.png" width="96" alt="NVIDIA – Getting Started with Deep Learning"></a>
-</p>
-
-<p align="center">
-<!-- Google -->
-<a href="#"><img src="assets/certs/ab_side_by_side_gcp_datanalyticsspecialization_badge.png" width="96" alt="Google Cloud – Data Analytics Specialization"></a>
-<!-- IBM -->
-<a href="https://coursera.org/verify/professional-cert/5SY5ASN6HW13"><img src="assets/certs/ibm data science.png" width="96" alt="IBM – Data Science Professional Certificate"></a>
-</p>
-
-<p align="center">
-<!-- University & Others -->
-<a href="https://coursera.org/verify/3ALHBNX4J2NL"><img src="assets/certs/html javascript css.png" width="96" alt="Johns Hopkins – HTML, CSS, and Javascript for Web Developers"></a>
-<a href="https://coursera.org/verify/MJAVJ6BKLPQG"><img src="assets/certs/python.jpeg" width="96" alt="University of Michigan – Python for Everybody Specialization"></a>
-<a href="#"><img src="assets/certs/data science ecommerce.png" width="96" alt="upGrad – Data Science in E-Commerce"></a>
-</p>
-
+<table align="center">
+<tr>
+<td align="center" width="120">
+<a href="https://www.credly.com/go/EUZho2d0">
+<img src="assets/certs/aws-academy-graduate-aws-academy-introduction-to-cloud-semester-1.png" alt="AWS Academy – Cloud Semester 1">
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://www.credly.com/go/4CxRY8n3">
+<img src="assets/certs/aws-academy-graduate-aws-academy-introduction-to-cloud-semester-2.png" alt="AWS Academy – Cloud Semester 2">
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://www.credly.com/go/w39FULC9">
+<img src="assets/certs/aws-academy-graduate-aws-academy-cloud-security-foundations.png" alt="AWS Academy – Cloud Security Foundations">
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<a href="https://learn.nvidia.com/certificates?id=mF4_Z6C2Qia_m1uAnP91hw">
+<img src="assets/certs/aijetson.png" alt="NVIDIA – Getting Started with AI on Jetson Nano">
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://learn.nvidia.com/certificates?id=tHJ8pel3Rtqec2tyOBP0vg">
+<img src="assets/certs/deeplearning.png" alt="NVIDIA – Getting Started with Deep Learning">
+</a>
+</td>
+<td align="center" width="120">
+<a href="#">
+<img src="assets/certs/ab_side_by_side_gcp_datanalyticsspecialization_badge.png" alt="Google Cloud – Data Analytics Specialization">
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<a href="https://coursera.org/verify/professional-cert/5SY5ASN6HW13">
+<img src="assets/certs/ibm data science.png" alt="IBM – Data Science Professional Certificate">
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://coursera.org/verify/3ALHBNX4J2NL">
+<img src="assets/certs/html javascript css.png" alt="Johns Hopkins – HTML, CSS, and Javascript for Web Developers">
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://coursera.org/verify/MJAVJ6BKLPQG">
+<img src="assets/certs/python.jpeg" alt="University of Michigan – Python for Everybody Specialization">
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<a href="#">
+<img src="assets/certs/data science ecommerce.png" alt="upGrad – Data Science in E-Commerce">
+</a>
+</td>
+<td width="120"></td>
+<td width="120"></td>
+</tr>
+</table>
 ---
 
 ## 📊 GitHub Stats
