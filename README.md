@@ -78,10 +78,11 @@
 
 ## 🏆 Certifications
 
+## 🏆 Certifications  
 
 <p align="center">
 
-  <!-- AWS -->
+  <!-- Row 1 -->
   <a href="https://www.credly.com/go/EUZho2d0" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/0f947012-5c53-4e3c-9e3d-16c3bb6ff91f/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge2020.png" alt="AWS Cloud Sem 1" />
   </a>
@@ -92,7 +93,11 @@
     <img src="https://images.credly.com/size/110x110/images/3f5fb7f7-4a68-43d9-b84d-74d51d67a4a7/AWS_Academy_Graduate___AWS_Academy_Cloud_Security_Foundations_Badge2020.png" alt="AWS Cloud Security Foundations" />
   </a>
 
-  <!-- NVIDIA -->
+</p>
+
+<p align="center">
+
+  <!-- Row 2 -->
   <a href="https://learn.nvidia.com/certificates?id=mF4_Z6C2Qia_m1uAnP91hw" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/8b7c2a2a-b51a-45a3-bd92-3f0af99327b7/image.png" alt="NVIDIA AI on Jetson" />
   </a>
@@ -100,27 +105,32 @@
     <img src="https://images.credly.com/size/110x110/images/2f3af2e3-b5a7-4666-b0a7-c1f15888f6f0/image.png" alt="NVIDIA Deep Learning" />
   </a>
 
-  <!-- Google -->
+</p>
+
+<p align="center">
+
+  <!-- Row 3 -->
   <a href="https://coursera.org/verify/professional-cert/5SHTHUEZKSNB" target="_blank">
     <img src="https://img.shields.io/badge/Google-Data%20Analytics-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics" />
   </a>
-
-  <!-- IBM -->
   <a href="https://coursera.org/verify/professional-cert/5SY5ASN6HW13" target="_blank">
     <img src="https://img.shields.io/badge/IBM-Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science" />
   </a>
 
-  <!-- Johns Hopkins -->
+</p>
+
+<p align="center">
+
+  <!-- Row 4 -->
   <a href="https://coursera.org/verify/3ALHBNX4J2NL" target="_blank">
     <img src="https://img.shields.io/badge/JHU-HTML%20CSS%20JS-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="HTML CSS JS Johns Hopkins" />
   </a>
-
-  <!-- Univ. of Michigan -->
   <a href="https://coursera.org/verify/MJAVJ6BKLPQG" target="_blank">
     <img src="https://img.shields.io/badge/UoM-Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Programming Univ of Michigan" />
   </a>
 
 </p>
+
 
 
 
