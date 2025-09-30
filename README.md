@@ -77,8 +77,20 @@
 ---
 
 ## 🏆 Certifications
-- **AWS Academy Introduction to Cloud (I & II)**  
-- **AWS Academy Cloud Security Foundations**
+
+
+| Certification | Issued By | Verify |
+|---------------|-----------|--------|
+| ![AWS](https://img.shields.io/badge/AWS-Cloud%20Semester%201-orange?logo=amazonaws&logoColor=white) | AWS Academy | [Credly](https://www.credly.com/go/EUZho2d0) :contentReference[oaicite:0]{index=0} |
+| ![AWS](https://img.shields.io/badge/AWS-Cloud%20Semester%202-orange?logo=amazonaws&logoColor=white) | AWS Academy | [Credly](https://www.credly.com/go/4CxRY8n3) :contentReference[oaicite:1]{index=1} |
+| ![AWS](https://img.shields.io/badge/AWS-Cloud%20Security-blue?logo=amazonaws&logoColor=white) | AWS Academy | [Credly](https://www.credly.com/go/w39FULC9) :contentReference[oaicite:2]{index=2} |
+| ![Google](https://img.shields.io/badge/Google-Data%20Analytics-34A853?logo=google&logoColor=white) | Google | [Verify](https://coursera.org/verify/professional-cert/5SHTHUEZKSNB) :contentReference[oaicite:3]{index=3} |
+| ![IBM](https://img.shields.io/badge/IBM-Data%20Science-052FAD?logo=ibm&logoColor=white) | IBM Skills Network | [Verify](https://coursera.org/verify/professional-cert/5SY5ASN6HW13) :contentReference[oaicite:4]{index=4} |
+| ![JHU](https://img.shields.io/badge/JHU-HTML%20CSS%20JS-lightblue?logo=javascript&logoColor=white) | Johns Hopkins (Coursera) | [Verify](https://coursera.org/verify/3ALHBNX4J2NL) :contentReference[oaicite:5]{index=5} |
+| ![NVIDIA](https://img.shields.io/badge/NVIDIA-AI%20on%20Jetson-76B900?logo=nvidia&logoColor=white) | NVIDIA | [Verify](https://learn.nvidia.com/certificates?id=mF4_Z6C2Qia_m1uAnP91hw) :contentReference[oaicite:6]{index=6} |
+| ![NVIDIA](https://img.shields.io/badge/NVIDIA-Deep%20Learning-76B900?logo=nvidia&logoColor=white) | NVIDIA | [Verify](https://learn.nvidia.com/certificates?id=tHJ8pel3Rtqec2tyOBP0vg) :contentReference[oaicite:7]{index=7} |
+| ![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python&logoColor=white) | Univ. of Michigan (Coursera) | [Verify](https://coursera.org/verify/MJAVJ6BKLPQG) :contentReference[oaicite:8]{index=8} |
+
 
 ---
 
