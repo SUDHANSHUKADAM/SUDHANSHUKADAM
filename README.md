@@ -118,7 +118,8 @@
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sudhanshu-kadam/)  
 - [Portfolio Website](https://skadam.framer.website/)  
-- [Email](mailto:skadam18@asu.edu)  
+- [Email](https://mail.google.com/mail/?view=cm&fs=1&to=skadam18@asu.edu)
+
 
 ---
 
