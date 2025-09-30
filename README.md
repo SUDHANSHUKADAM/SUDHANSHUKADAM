@@ -16,10 +16,13 @@
 ---
 
 ## 🚀 Featured Projects
-[![PromptPal](https://img.shields.io/badge/PromptPal-RAG%20%7C%20Prompt%20Optimization-blue)](https://github.com/SUDHANSHUKADAM/Promptpal)  
-[![TradeWise](https://img.shields.io/badge/TradeWise-AI%20Portfolio%20Optimizer-green)](https://github.com/SUDHANSHUKADAM/TradeWise-AI-Powered-Portfolio-Optimization)  
-[![Medical Diagnosis](https://img.shields.io/badge/Medical%20Diagnosis-ML%20Healthcare-red)](https://github.com/SUDHANSHUKADAM/Medical-Diagnosis-System)  
-[![DDPM](https://img.shields.io/badge/DDPM-Generative%20Images-orange)](https://github.com/SUDHANSHUKADAM/Generating-Realistic-Images-using-DDPM)  
+## 🚀 Featured Projects
+
+[![PromptPal](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=Promptpal&theme=tokyonight)](https://github.com/SUDHANSHUKADAM/Promptpal)
+[![TradeWise](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=TradeWise-AI-Powered-Portfolio-Optimization&theme=tokyonight)](https://github.com/SUDHANSHUKADAM/TradeWise-AI-Powered-Portfolio-Optimization)
+
+[![Medical Diagnosis System](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=Medical-Diagnosis-System&theme=tokyonight)](https://github.com/SUDHANSHUKADAM/Medical-Diagnosis-System)
+[![DDPM](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=Generating-Realistic-Images-using-DDPM&theme=tokyonight)](https://github.com/SUDHANSHUKADAM/Generating-Realistic-Images-using-DDPM)
 
 ---
 
