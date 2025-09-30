@@ -76,7 +76,8 @@
 
 ---
 
-🏆 Certifications & Trainings
+##🏆 Certifications & Trainings
+
 <p align="center">
 <!-- AWS -->
 <a href="https://www.credly.com/go/EUZho2d0"><img src="assets/certs/aws-academy-graduate-aws-academy-introduction-to-cloud-semester-1.png" width="96" alt="AWS Academy – Cloud Semester 1"></a>
