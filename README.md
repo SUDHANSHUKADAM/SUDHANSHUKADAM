@@ -16,8 +16,6 @@
 ---
 
 ## 🚀 Featured Projects
-## 🚀 Featured Projects
-
 [![PromptPal](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=Promptpal&theme=tokyonight)](https://github.com/SUDHANSHUKADAM/Promptpal)
 [![TradeWise](https://github-readme-stats.vercel.app/api/pin/?username=SUDHANSHUKADAM&repo=TradeWise-AI-Powered-Portfolio-Optimization&theme=tokyonight)](https://github.com/SUDHANSHUKADAM/TradeWise-AI-Powered-Portfolio-Optimization)
 
