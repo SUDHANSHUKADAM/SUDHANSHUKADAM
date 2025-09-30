@@ -7,11 +7,11 @@
 ## 👨‍🎓 Education
 - 🎓 **Master’s in Data Science, Analytics & Engineering (Computational & Decision Analytics)**  
   *Arizona State University, Tempe (2024–2026)* — GPA: **3.89/4.00**  
-  Coursework: Data Mining, Data Processing at Scale, Statistical ML, Statistics for Data Analysts, GenAI  
+  Coursework: Data Mining, Data Processing at Scale, Statistical ML, Statistics for Data Analysts, GenAI, Analyzing Big Data, Knowledge Representation,Information Assurance and Security, Data- Dricen Optimization  
 
 - 🎓 **Bachelor’s in Computer Engineering with Minor in Data Science**  
   *SIES Graduate School of Technology, University of Mumbai (2020–2024)* — CGPA: **9.12/10.00**  
-  Coursework: Data Science in Healthcare, DBMS, ML, Probabilistic Graphical Models, Big Data Analytics, IR, AI, NLP, Data Warehousing  
+  Coursework: Data Science in Healthcare, Database Management System, Machine Learning, Probabilistic Graphical Modelling, Quantitative Analysis, Big Data Analytics, Information Retrieval, Artificial Intelligence, Natural Language Processing & Data Warehousing and Mining.   
 
 ---
 
