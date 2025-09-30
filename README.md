@@ -79,17 +79,51 @@
 ## 🏆 Certifications
 
 
-| Certification | Issued By | Verify |
-|---------------|-----------|--------|
-| ![AWS](https://img.shields.io/badge/AWS-Cloud%20Semester%201-orange?logo=amazonaws&logoColor=white) | AWS Academy | [Credly](https://www.credly.com/go/EUZho2d0) :contentReference[oaicite:0]{index=0} |
-| ![AWS](https://img.shields.io/badge/AWS-Cloud%20Semester%202-orange?logo=amazonaws&logoColor=white) | AWS Academy | [Credly](https://www.credly.com/go/4CxRY8n3) :contentReference[oaicite:1]{index=1} |
-| ![AWS](https://img.shields.io/badge/AWS-Cloud%20Security-blue?logo=amazonaws&logoColor=white) | AWS Academy | [Credly](https://www.credly.com/go/w39FULC9) :contentReference[oaicite:2]{index=2} |
-| ![Google](https://img.shields.io/badge/Google-Data%20Analytics-34A853?logo=google&logoColor=white) | Google | [Verify](https://coursera.org/verify/professional-cert/5SHTHUEZKSNB) :contentReference[oaicite:3]{index=3} |
-| ![IBM](https://img.shields.io/badge/IBM-Data%20Science-052FAD?logo=ibm&logoColor=white) | IBM Skills Network | [Verify](https://coursera.org/verify/professional-cert/5SY5ASN6HW13) :contentReference[oaicite:4]{index=4} |
-| ![JHU](https://img.shields.io/badge/JHU-HTML%20CSS%20JS-lightblue?logo=javascript&logoColor=white) | Johns Hopkins (Coursera) | [Verify](https://coursera.org/verify/3ALHBNX4J2NL) :contentReference[oaicite:5]{index=5} |
-| ![NVIDIA](https://img.shields.io/badge/NVIDIA-AI%20on%20Jetson-76B900?logo=nvidia&logoColor=white) | NVIDIA | [Verify](https://learn.nvidia.com/certificates?id=mF4_Z6C2Qia_m1uAnP91hw) :contentReference[oaicite:6]{index=6} |
-| ![NVIDIA](https://img.shields.io/badge/NVIDIA-Deep%20Learning-76B900?logo=nvidia&logoColor=white) | NVIDIA | [Verify](https://learn.nvidia.com/certificates?id=tHJ8pel3Rtqec2tyOBP0vg) :contentReference[oaicite:7]{index=7} |
-| ![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python&logoColor=white) | Univ. of Michigan (Coursera) | [Verify](https://coursera.org/verify/MJAVJ6BKLPQG) :contentReference[oaicite:8]{index=8} |
+<p align="center">
+
+  <!-- AWS -->
+  <a href="https://www.credly.com/go/EUZho2d0" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/0f947012-5c53-4e3c-9e3d-16c3bb6ff91f/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge2020.png" alt="AWS Cloud Sem 1" />
+  </a>
+  <a href="https://www.credly.com/go/4CxRY8n3" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/59802c8a-c30c-4adc-8bc4-46aa82af4e4f/AWS_Academy_Graduate___AWS_Academy_Cloud_Architecting_Badge2020.png" alt="AWS Cloud Sem 2" />
+  </a>
+  <a href="https://www.credly.com/go/w39FULC9" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/3f5fb7f7-4a68-43d9-b84d-74d51d67a4a7/AWS_Academy_Graduate___AWS_Academy_Cloud_Security_Foundations_Badge2020.png" alt="AWS Cloud Security Foundations" />
+  </a>
+
+  <!-- NVIDIA -->
+  <a href="https://learn.nvidia.com/certificates?id=mF4_Z6C2Qia_m1uAnP91hw" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/8b7c2a2a-b51a-45a3-bd92-3f0af99327b7/image.png" alt="NVIDIA AI on Jetson" />
+  </a>
+  <a href="https://learn.nvidia.com/certificates?id=tHJ8pel3Rtqec2tyOBP0vg" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/2f3af2e3-b5a7-4666-b0a7-c1f15888f6f0/image.png" alt="NVIDIA Deep Learning" />
+  </a>
+
+  <!-- Google -->
+  <a href="https://coursera.org/verify/professional-cert/5SHTHUEZKSNB" target="_blank">
+    <img src="https://img.shields.io/badge/Google-Data%20Analytics-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics" />
+  </a>
+
+  <!-- IBM -->
+  <a href="https://coursera.org/verify/professional-cert/5SY5ASN6HW13" target="_blank">
+    <img src="https://img.shields.io/badge/IBM-Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science" />
+  </a>
+
+  <!-- Johns Hopkins -->
+  <a href="https://coursera.org/verify/3ALHBNX4J2NL" target="_blank">
+    <img src="https://img.shields.io/badge/JHU-HTML%20CSS%20JS-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="HTML CSS JS Johns Hopkins" />
+  </a>
+
+  <!-- Univ. of Michigan -->
+  <a href="https://coursera.org/verify/MJAVJ6BKLPQG" target="_blank">
+    <img src="https://img.shields.io/badge/UoM-Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Programming Univ of Michigan" />
+  </a>
+
+</p>
+
+
+
 
 
 ---
